@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
+  ['5491166703727', '𝐁𝐮𝐜𝐤 𝐁𝐨𝐭', true],
   ['51955095498', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖', true],
-  ['51933348947', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖(secundario)', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.author = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.packname = '𝐁𝐮𝐜𝐤 𝐁𝐨𝐭'
+global.author = '𝐁𝐮𝐜𝐤 𝐁𝐨𝐭'
 
-global.wm = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.igfg = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.wm = '𝐁𝐮𝐜𝐤 𝐁𝐨𝐭'
+global.igfg = '𝐁𝐮𝐜𝐤 𝐁𝐨𝐭'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
